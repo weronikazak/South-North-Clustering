@@ -1,0 +1,105 @@
+Borough,Neighborhood,Latitude,Longitude
+Historical Center,Trastevere,41.8837649,12.4712699
+Historical Center,Aventino,41.8828249,12.4868186
+Historical Center,Esquilino,41.8980442,12.4988632
+Historical Center,XX Settembre,41.9061512,12.4968951
+Parioli/Nomentano,Villaggio Olimpico,41.9329657,12.4741574
+Parioli/Nomentano,Parioli,41.925949,12.4873205
+Parioli/Nomentano,Flaminio,41.9128288,12.4771394
+Parioli/Nomentano,Salario,41.922978,12.5026364
+Parioli/Nomentano,Villa Borghese,41.9143237,12.4837893
+Parioli/Nomentano,Villa Ada,41.931603,12.5022928
+Parioli/Nomentano,Nomentano,41.9170024,12.5129177
+Monte Sacro,Monte Sacro,41.9324017,12.5341258
+Monte Sacro,Val Melaina,41.9325718,12.5230847
+Monte Sacro,Fidene,41.9790986,12.5084683
+Monte Sacro,Serpentara,41.9651437,12.5141887
+Monte Sacro,Casal Boccone,41.960373,12.5563015
+Monte Sacro,Conca d'Oro,41.9397676,12.528141
+Monte Sacro,Sacco Pastore,41.9318381,12.5268203
+Monte Sacro,Tufello,41.6403125,12.6528594
+Monte Sacro,Settebagni,42.0061004,12.5216453
+Monte Sacro,Bufalotta,41.9847913,12.5515472
+Monte Sacro,Tor San Giovanni,42.0071342,12.6067045
+Tiburtina,Casal Bertone,41.8970696,12.5325389
+Tiburtina,Casal Bruciato,41.9097937,12.5505298
+Tiburtina,Tiburtino Nord,41.9424923,12.6528719
+Tiburtina,Tiburtino Sud,41.9132736,12.5699095
+Tiburtina,Tor Cervara,41.9116848,12.5887091
+Tiburtina,Pietralata,41.9149254,12.5550931
+Tiburtina,Casal de' Pazzi,41.9283379,12.5638189
+Tiburtina,Settecamini,41.9396308,12.6254107
+Prenestino/Centocelle,Torpignattara,41.8801549,12.5423768
+Prenestino/Centocelle,Casilino,41.8892679,12.5220772
+Prenestino/Centocelle,Quadraro,41.8661562,12.5470813
+Prenestino/Centocelle,Gordiani,41.892583,12.5531969
+Prenestino/Centocelle,Centocelle,41.8747757,12.5625658
+Prenestino/Centocelle,Alessandrina,41.8785631,12.545482
+Prenestino/Centocelle,Tor Sapienza,41.9059055,12.5879026
+Prenestino/Centocelle,La Rustica,41.9125488,12.6218186
+Prenestino/Centocelle,Tor Tre Teste,41.8832049,12.5888913
+Prenestino/Centocelle,Casetta Mistica,41.8766517,12.6189378
+Prenestino/Centocelle,Centro Direzionale Centocelle,41.88333,12.56667
+Roma Delle Torri,Torrespaccata,41.8641328,12.5789669
+Roma Delle Torri,Torre Maura,41.8666209,12.5971565
+Roma Delle Torri,Giardinetti-Tor Vergata,41.8641331,12.6105711
+Roma Delle Torri,Acqua Vergine,41.902501,12.4729627
+Roma Delle Torri,Lunghezza,41.9189718,12.673862
+Roma Delle Torri,Torre Angela,41.8643334,12.6255783
+Roma Delle Torri,Borghesiana,41.8646918,12.6672618
+Roma Delle Torri,San Vittorino,41.9146565,12.7883978
+Appio-Latino/Tuscolano/Cinecittà,Tor Fiscale,41.8584987,12.5401654
+Appio-Latino/Tuscolano/Cinecittà,Appio-Claudio,41.8534839,12.5612178
+Appio-Latino/Tuscolano/Cinecittà,Quarto Miglio,41.8437104,12.5473371
+Appio-Latino/Tuscolano/Cinecittà,Pignatelli,41.8477194,12.5383212
+Appio-Latino/Tuscolano/Cinecittà,Lucrezia Romana,41.8240017,12.5864191
+Appio-Latino/Tuscolano/Cinecittà,Osteria del Curato,41.83789,12.584715
+Appio-Latino/Tuscolano/Cinecittà,Romanina,41.8406386,12.5996071
+Appio-Latino/Tuscolano/Cinecittà,Gregna,41.8269086,12.5855584
+Appio-Latino/Tuscolano/Cinecittà,Ciampino,41.8002891,12.6004706
+Appia Antica,Ostiense,41.8572827,12.4778813
+Appia Antica,Valco San Paolo,41.8521539,12.4770421
+Appia Antica,Garbatella,41.8663327,12.4830867
+Appia Antica,Navigatori,41.8599708,12.4995494
+Appia Antica,Tor Marancia,41.8566332,12.4973436
+Appia Antica,Grottaperfetta,41.8328219,12.5068908
+EUR,Eur,41.8337745,12.4709498
+EUR,Mezzocammino,41.7941675,12.4265231
+EUR,Spinaceto,41.7876705,12.446635
+EUR,Vallerano-Castel di Leva,41.77662,12.54609
+EUR,Santa Palomba,41.7063363,12.5769364
+EUR,Tor di Valle,41.8195321,12.4367553
+Ostia/Acilia,Malafede,41.7755265,12.3780048
+Ostia/Acilia,Acilia Nord,41.7877913,12.3476073
+Ostia/Acilia,Acilia Sud,41.7835343,12.3608521
+Ostia/Acilia,Palocco,41.7541799,12.333786
+Ostia/Acilia,Ostia Antica,41.753654,12.2857442
+Ostia/Acilia,Castel Fusano,41.7323481,12.3451155
+Ostia/Acilia,Infernetto,41.7451939,12.3746854
+Ostia/Acilia,Castel Porziano,41.7430975,12.4019607
+Arvalia/Portuense,Marconi,41.8493351,12.4756474
+Arvalia/Portuense,Portuense,41.8616129,12.4638268
+Arvalia/Portuense,Pian Due Torri,41.8519346,12.4604081
+Arvalia/Portuense,Trullo,42.1537985,12.4781815
+Arvalia/Portuense,Magliana,41.8395597,12.4633029
+Arvalia/Portuense,Corviale,41.8494838,12.4125315
+Arvalia/Portuense,Ponte Galeria,41.8183832,12.3496193
+Monte Verde,Colli Portuensi,41.8615339,12.44324
+Monte Verde,Gianicolense,41.8722836,12.4535188
+Monte Verde,Villa Pamphili,41.8820688,12.4324938
+Aurelia,Val Cannuta,41.8988027,12.4108745
+Aurelia,Casalotti di Boccea,41.9195606,12.3768283
+Aurelia,Boccea,41.9017966,12.4173954
+Monte Mario,Primavalle,41.921335,12.417002
+Monte Mario,Trionfale,41.9179201,12.4357045
+Monte Mario,Santa Maria di Galeria,42.0222516,12.317265
+Cassia/Flaminia,Tor di Quinto,41.9503611,12.490039
+Cassia/Flaminia,Acquatraversa,41.8762281,12.7830871
+Cassia/Flaminia,Tomba di Nerone,41.9654712,12.442555
+Cassia/Flaminia,Giustiniana,41.9830996,12.4123146
+Cassia/Flaminia,La Storta,42.0121468,12.3729259
+Cassia/Flaminia,Santa Cornelia,42.0290615,12.4516726
+Cassia/Flaminia,Prima Porta,42.0019746,12.4859701
+Cassia/Flaminia,Labaro,41.9902225,12.4892449
+Cassia/Flaminia,Cesano,42.0776348,12.3419109
+Cassia/Flaminia,Foro Italico,41.9300108,12.4557651
