@@ -2,8 +2,8 @@
 
 
 <p align="center">
-  <img src="https://github.com/weronikazak/South-North-Clustering/blob/master/examples/oslo_neigh.PNG">
-  <img src="https://github.com/weronikazak/South-North-Clustering/blob/master/examples/rome_neigh.PNG">
+  <img src="https://github.com/weronikazak/South-North-Clustering/blob/master/examples/oslo_neigh.PNG" width=400>
+  <img src="https://github.com/weronikazak/South-North-Clustering/blob/master/examples/rome_neigh.PNG" width=400>
 </p>
 
 
